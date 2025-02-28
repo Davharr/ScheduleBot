@@ -1,0 +1,19 @@
+{
+    "Senin": [
+        "08:00 - Matematika",
+        "10:00 - Algoritma"
+    ],
+    "Selasa": [
+        "09:00 - Basis Data"
+    ],
+    "Rabu": [
+        "Libur guys",
+        "16:00 - pemrograman web"
+    ],
+    "Kamis": [
+        "13:00 - Struktur Data"
+    ],
+    "Jumat": [
+        "08:00 - Jaringan Komputer"
+    ]
+}
